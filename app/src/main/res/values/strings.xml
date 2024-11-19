@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="name_of_the_film">Name of the film</string>
+    <string name="description_of_the_film">Description of the film</string>
+    <string name="search">Поиск</string>
+    <string name="nothing_found">Ничего не найдено :(</string>
+    <string name="something_went_wrong">Что-то пошло не так :(</string>
+
+</resources>
